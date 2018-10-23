@@ -1,0 +1,40 @@
+#main {
+	border: 1px solid grey;
+}
+
+#contact {
+	float: right;
+	font-size: 12px;
+	text-align: center;
+	padding: 35px;
+}
+
+hr {
+	width: 80%;
+}
+
+table {
+	margin: auto;
+	font-size: 12px;
+}
+
+th {
+	margin: 5%;
+	text-align: center;
+}
+
+td {
+	border: 0.2px solid grey;
+	padding: 5px;
+	margin: 2px;
+	text-align: center;
+}
+
+body {
+	font-size: 11px;
+}
+
+span {
+	font-size: 12px;
+	font-weight: bold;
+}
